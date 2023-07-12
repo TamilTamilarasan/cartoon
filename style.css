@@ -1,0 +1,43 @@
+body{
+     text-align: center;
+}
+.button ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin: 20px;
+    padding: 10px;
+
+}
+.button ul li{
+    margin: 0 20px;
+    font-size: 20px;
+
+}
+.heading{
+    background-color: rgb(0, 255, 170);
+    font-size: 35px;
+    padding: 2px;
+    margin: 2px;
+}
+.do{
+    background-color: greenyellow;
+    padding-bottom: 2px;
+    padding: 2px;
+    margin: 2px;
+    font-size: 30px;
+}
+.rare{
+    background-color: blueviolet;
+    font-size:30px;
+    padding: 3px;
+    margin: 3px;
+    word-spacing:2px;
+}
+.ten{
+    background-color:rgb(21, 255, 0);
+    font-size:30px;
+    padding: 3px;
+    margin: 3px;
+}
